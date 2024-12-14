@@ -1,0 +1,8 @@
+There are 5 tables in my database, Medicare
+
+Steps:
+
+1. You need to create a database named "medicare"
+2. Then import the csv files to the databse.
+3. Move the project folder to your_path/xmapp/htdocs [Windows] | /opt/lampp/htdocs [Linux]
+4. Deploy the project with localhost.
