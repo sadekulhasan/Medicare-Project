@@ -1,0 +1,4 @@
+"checkout_id","customer_name","customer_phone","customer_email","customer_address","product_names","total_price","status"
+"51","Abdur Rahman","01897765041","abdurrahman@yahoo.com","Road 10, Sector 10, Uttara, Dhaka","Savlon Liquid Antiseptic 1000ml, Aluminum First Aid Kit, Fingertip YK-80A Pulse Rate Oximeter, CPR Mask","5630","Canceled"
+"52","saad","01897765041","saadkamal219@gmail.com","212 East Brahmondi, Narsingdi Sadar, Narsingdi","Accu-Chek Active Blood Glucose Monitoring System, DT103 Electronic Thermometer","4099","Canceled"
+"53","saad","10562400125","saad@gmail.com","mirpur","Accu-Chek Active Blood Glucose Monitoring System, DT103 Electronic Thermometer, CPR Mask","5899","Pending"
